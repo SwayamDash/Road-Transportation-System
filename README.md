@@ -13,61 +13,6 @@ Target Audience:
 •	Any user who wants to discover the routes in course from initial and destination.
 •	Any user who wants to book a journey.
 
-
-
-
-Basic Structure:
-
- 
-
-
-
-
-
-
-
-							
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Explanation: 
 •	Admin Role: -
        Int Login()- used for login
